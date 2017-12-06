@@ -1,0 +1,3 @@
+services:
+    old_sound_rabbit_mq.add_operation_consumer:
+        class: AppBundle\Services\OperationConsumer
